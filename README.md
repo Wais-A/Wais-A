@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Wais-A/Wais-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/wais"><img src="https://api.daily.dev/devcards/v2/UL1LQr3zLVYRBldZ1NKAk.png?type=wide&r=9ph" width="652" alt="Wais A Almakaleh's Dev Card"/></a>
